@@ -150,6 +150,10 @@ export default {
       }
     }
   }
-
+  .sf-bottom-navigation-item {
+    &__label {
+      color: #000000 !important;
+    }
+  }
 }
 </style>
